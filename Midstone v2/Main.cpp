@@ -1,6 +1,7 @@
-//Testing
-//Created file to try and upload to github
-//Github is hard and confusing to use. Please get this to work.
+//2021 Midstone Naruca
+
+//Credit goes to OneLoneCoder
+//Github can be found on https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Tetris.cpp
 
 #include <iostream>
 #include <thread>
